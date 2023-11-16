@@ -1,12 +1,10 @@
 # Resources for cyber careers
 
+Compilation of resources and information I have found researching careers in cybersecurity.
+
 ## Career Quiz
 Not sure what subfield you are interested in? Take a quiz.
 https://cybercademy.org/quiz/
-
-
-SITES
-https://defcon.org/html/links/links-o-rama.html
 
 ## Certificate Information
 
