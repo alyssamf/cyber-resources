@@ -3,22 +3,26 @@
 Compilation of resources and information I have found researching careers in cybersecurity.
 
 ## Career Quiz
-Not sure what subfield you are interested in? Take a quiz.
-https://cybercademy.org/quiz/
+Not sure what subfield you are interested in? 
+
+Take a quiz: https://cybercademy.org/quiz/
 
 ## Certificate Information
 
 Cert Roadmaps:
+
 https://pauljerimy.com/security-certification-roadmap/
 
 https://www.linkedin.com/pulse/path-career-cyber-gary-hayslip-cissp-cisa-crisc-ccsk/
 
+https://bytebreach.com/which-certifications-should-you-go-for/
+
 ## Subfields
 *These are just a few subfields in cyber domain. Many will have overlap between fields.*
 
-- DFIR - Digital Forensics & Incident Response
+- DFIR - Digital Forensics & Incident Response (Defensive / Blue Team)
 
-- Offensive - Hacking & Penetration Testing
+- Hacking & Penetration Testing (Offensive / Red Team)
 
 - Cloud
     - AWS
