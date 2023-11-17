@@ -68,4 +68,4 @@ Exam Format: 4-5 hours to take 106-180 question exam. Open book.
 
 Expires: After 4 years. Need to retake the certification exam or earn a minimum of 36 Continuing Professional Education (CPE) credits within the four-year period to maintain their certification.
 
-Worth?: Yes if employer is paying and you already have Security+. Too expensive with course if paying yourself. 
+Worth?: Yes if employer is paying and is required. Too expensive with course if paying yourself, better off getting Security+ and a more adavnced GIAC course. 
