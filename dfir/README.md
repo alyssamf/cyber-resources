@@ -14,6 +14,8 @@ https://www.reddit.com/r/datarecovery
 
 https://community.metaspike.com/
 
+https://www.forensicfocus.com/forums/
+
 ## Discords
 
 https://discord.com/invite/pNMZunG
@@ -25,6 +27,8 @@ Digital forensics involves collecting, preserving, and analyzing forensic eviden
 Incident response involves containing, stopping, and preventing a cyberattack. Digital forensics is involved in incident response. Think stopping an attack or malware from spreading, recovering companies deleted or encrypted data. Find out who done it? Where did they do it from? How did they do it? Why did they do it? Stop them and others from doing it again.
 
 ## Digital Forensics - Skills to learn
+
+https://github.com/paralax/awesome-honeypots
 
 https://github.com/mikeroyal/Digital-Forensics-Guide
 
@@ -62,6 +66,7 @@ https://www.reddit.com/r/computerforensics/comments/wb23lz/what_weapons_of_choic
 - hashcat
 - Gray Key
 - https://ericzimmerman.github.io/#!index.md
+- https://exiftool.org/ - metadata for files
 
 ## Incident Response - Skills to learn
 

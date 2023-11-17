@@ -7,9 +7,18 @@ Not sure what subfield you are interested in?
 
 Take a quiz: https://cybercademy.org/quiz/
 
-## Certificate Information
 
-Cert Roadmaps:
+Have a DFIR interview? - https://www.sans.org/blog/getting-your-first-dfir-job/
+
+DFIR Job Board - https://aboutdfir.com/jobs/
+
+Clearance / Government Jobs
+- https://www.clearancejobs.com/
+- https://www.usajobs.gov/
+- https://www.governmentjobs.com/
+
+
+## Certificate Roadmaps
 
 https://pauljerimy.com/security-certification-roadmap/
 
@@ -35,6 +44,9 @@ https://bytebreach.com/which-certifications-should-you-go-for/
 
 
 ## Conferences
+
+https://aboutdfir.com/the-community/conferences/
+
 - ### RSA
 
     Type:                       General IT security conference.
@@ -80,7 +92,7 @@ https://bytebreach.com/which-certifications-should-you-go-for/
 
     Date:                       August 3 - 8, 2024
 
-    Cost:                       $2,469 - $3095 (Trainging classes are extra)
+    Cost:                       $2,469 - $3095 (Training classes are extra)
 
     Scholarships: (Pay for entry)
         https://www.blackhat.com/us-23/scholarships.html (Students & Veterans)
