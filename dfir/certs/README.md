@@ -1,6 +1,6 @@
 # DFIR - Digital Forensics & Incident Response Certs
 
-## CYSA+ - CompTIA Cybersecurity Analyst
+## CompTIA CYSA+ - Cybersecurity Analyst
 
 Website: https://www.comptia.org/certifications/cybersecurity-analyst
 
@@ -127,3 +127,19 @@ Exam Format: 2 hours to take 75 question exam. Open book.
 Expires: After 4 years. Need to retake the certification exam or earn a minimum of 36 Continuing Professional Education (CPE) credits within the four-year period to maintain their certification.
 
 Worth?: Yes if employer is paying. Too expensive with course if paying yourself. 
+
+## GIME - GIAC iOS and macOS Examiner
+
+Website: https://www.giac.org/certifications/ios-macos-examiner-gime/
+
+Prereqs: None. Meant for experienced cybersecurity experts.
+
+Cost: $979 for exam
+
+Course: $8,525 for course - https://www.sans.org/cyber-security-courses/mac-and-ios-forensic-analysis-and-incident-response/
+
+Exam Format: 2 hours to take 75 question exam. Open book.
+
+Expires: After 4 years. Need to retake the certification exam or earn a minimum of 36 Continuing Professional Education (CPE) credits within the four-year period to maintain their certification.
+
+Worth?: Yes if employer is paying. Too expensive with course if paying yourself. Go for GCFE first.
